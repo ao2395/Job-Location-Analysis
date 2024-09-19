@@ -1,118 +1,62 @@
 [
     {
-        "title": "Fashion Sales and Media Coordinator",
-        "company": "FIOFO",
-        "location": "New York, NY 10001\u00a0(Garment District area)",
-        "salary": "$75,000 a year",
-        "job_type": "Full-time",
-        "schedule": "N/A"
-    },
-    {
-        "title": "Content Creator",
-        "company": "Male Plastic Surgery",
-        "location": "Upper East Side, NY",
-        "salary": "$24 - $27 an hour",
+        "title": "STEM/ Data Analytics Specialist (Part-Time)",
+        "company": "Girls Inc. of New York City",
+        "location": "New York, NY",
+        "salary": "$20 - $25 an hour",
         "job_type": "Part-time",
-        "schedule": "15 to 25 hours per week"
+        "schedule": "20 hours per week"
     },
     {
-        "title": "Brand Marketing Manager",
-        "company": "Heyday Skincare Corporate",
-        "location": "New York, NY 10010",
-        "salary": "$100,000 - $130,000 a year",
-        "job_type": "Full-time",
-        "schedule": "N/A"
-    },
-    {
-        "title": "Consumer Marketing Specialist",
-        "company": "Divina & FOODMatch",
-        "location": "Hybrid work in New York, NY 10018",
-        "salary": "$70,000 - $85,000 a year",
-        "job_type": "Full-time",
-        "schedule": "N/A"
-    },
-    {
-        "title": "Creative Designer, Marketing and Branding",
-        "company": "New York City Department of Education",
-        "location": "Manhattan, NY",
-        "salary": "N/A",
-        "job_type": "N/A",
-        "schedule": "N/A"
-    },
-    {
-        "title": "Customer Marketing Associate",
-        "company": "MealPal",
-        "location": "New York, NY 10018\u00a0(Garment District area)",
-        "salary": "$60,000 a year",
+        "title": "Data Scientist \u2013 NLP",
+        "company": "Solytics Partners LLC",
+        "location": "Hybrid work in New York, NY 10001",
+        "salary": "$90,000 - $120,000 a year",
         "job_type": "Full-time",
         "schedule": "Monday to Friday"
     },
     {
-        "title": "Marketing Assistant",
-        "company": "City National Bank",
-        "location": "New York, NY",
+        "title": "Data Analyst, Healthcare Analytics | Hybrid NY",
+        "company": "Healthfirst",
+        "location": "Hybrid work in New York, NY 10007",
         "salary": "N/A",
         "job_type": "N/A",
         "schedule": "N/A"
     },
     {
-        "title": "Sr. GTM Specialist, Database, Startups",
-        "company": "Amazon Web Services, Inc. - A97",
-        "location": "New York, NY 10007",
-        "salary": "$133,200 - $220,200 a year",
-        "job_type": "Full-time",
-        "schedule": "N/A"
-    },
-    {
-        "title": "Marketing Coordinator",
-        "company": "HLW INTERNATIONAL LLP",
-        "location": "Hybrid work in New York, NY 10001",
-        "salary": "$70,000 - $85,000 a year",
-        "job_type": "Full-time",
-        "schedule": "N/A"
-    },
-    {
-        "title": "Product Development Coordinator",
-        "company": "Bond No. 9 New York",
-        "location": "New York, NY 10012\u00a0(NoHo area)",
-        "salary": "$60,000 - $70,000 a year",
-        "job_type": "Full-time",
-        "schedule": "Day shift +1"
-    },
-    {
-        "title": "Manager, Marketing - Amazon",
-        "company": "Michael Kors",
-        "location": "New York, NY",
-        "salary": "N/A",
-        "job_type": "N/A",
-        "schedule": "N/A"
-    },
-    {
-        "title": "Email-SMS Marketing Manager/Sr. Manager",
-        "company": "Grown Brilliance, Inc",
-        "location": "New York, NY 10017\u00a0(Midtown area)",
-        "salary": "$80,000 - $110,000 a year",
-        "job_type": "Full-time",
-        "schedule": "N/A"
-    },
-    {
-        "title": "Marketing Communications Manager - Legal",
-        "company": "Partners In Law",
-        "location": "Hybrid work in New York, NY 10018",
-        "salary": "$120,000 - $140,000 a year",
-        "job_type": "Full-time",
-        "schedule": "Monday to Friday +1"
-    },
-    {
-        "title": "Partnerships Assistant",
-        "company": "OceanX",
+        "title": "Senior Manager-Data Science",
+        "company": "Amex",
         "location": "Hybrid work in New York, NY",
+        "salary": "$90,000 - $165,000 a year",
+        "job_type": "N/A",
+        "schedule": "N/A"
+    },
+    {
+        "title": "Basketball Data Science & Scheduling Lead",
+        "company": "the NBA",
+        "location": "New York, NY 10022",
         "salary": "N/A",
         "job_type": "N/A",
         "schedule": "N/A"
     },
     {
-        "title": "Quantitative Marketing Analyst, Google, Search Marketing",
+        "title": "Lead Machine Learning Engineer, Bank Tech",
+        "company": "Capital One",
+        "location": "Hybrid work in New York, NY 10012",
+        "salary": "N/A",
+        "job_type": "N/A",
+        "schedule": "N/A"
+    },
+    {
+        "title": "Director-Data Science",
+        "company": "Amex",
+        "location": "Hybrid work in New York, NY",
+        "salary": "$150,000 - $225,000 a year",
+        "job_type": "N/A",
+        "schedule": "N/A"
+    },
+    {
+        "title": "Data Scientist Manager II, Research",
         "company": "Google",
         "location": "New York, NY\u00a0(Chelsea area)",
         "salary": "N/A",
@@ -120,18 +64,34 @@
         "schedule": "N/A"
     },
     {
-        "title": "Business Development Specialist (Home Care)",
-        "company": "All Heart Homecare Agency",
-        "location": "Hybrid work in New York, NY 10001",
-        "salary": "$80,000 - $120,000 a year",
-        "job_type": "Full-time",
-        "schedule": "Monday to Friday"
+        "title": "Data Scientist, Cloud Planning and Profitability",
+        "company": "Google",
+        "location": "New York, NY\u00a0(Chelsea area)",
+        "salary": "N/A",
+        "job_type": "N/A",
+        "schedule": "N/A"
     },
     {
-        "title": "Junior Coordinator, Influencer Marketing",
-        "company": "Edelman",
-        "location": "New York, NY 10013\u00a0(Tribeca area)",
-        "salary": "$40,000 - $50,000 a year",
+        "title": "Senior Data Engineer",
+        "company": "Northwell Health",
+        "location": "New York, NY 10060",
+        "salary": "N/A",
+        "job_type": "N/A",
+        "schedule": "N/A"
+    },
+    {
+        "title": "Director, Data Science",
+        "company": "Peloton",
+        "location": "Hybrid work in New York, NY 10011",
+        "salary": "N/A",
+        "job_type": "N/A",
+        "schedule": "N/A"
+    },
+    {
+        "title": "Vice president, Data Science and Analytics",
+        "company": "Razorfish",
+        "location": "New York, NY 10014\u00a0(SoHo area)",
+        "salary": "$130,000 - $219,000 a year",
         "job_type": "Full-time",
         "schedule": "N/A"
     },
@@ -144,199 +104,215 @@
         "schedule": "N/A"
     },
     {
-        "title": "E-Commerce Manager for Luxury Timepiece Boutique",
-        "company": "Wrist Aficionado",
-        "location": "New York, NY 10065\u00a0(Upper East Side area)",
-        "salary": "$70,000 - $90,000 a year",
-        "job_type": "Full-time",
-        "schedule": "Monday to Friday +1"
+        "title": "AI Data Analyst - Part Time Temporary",
+        "company": "SS&C",
+        "location": "New York, NY",
+        "salary": "$20 - $25 an hour",
+        "job_type": "Part-time",
+        "schedule": "N/A"
     },
     {
-        "title": "Product & Brand Marketing Manager, US Marketing",
-        "company": "Uniqlo",
+        "title": "Data Science Director, Infra Analytics",
+        "company": "Meta",
         "location": "New York, NY",
+        "salary": "$314,000 - $361,000 a year",
+        "job_type": "N/A",
+        "schedule": "N/A"
+    },
+    {
+        "title": "Director, Data Science & Audience Solutions",
+        "company": "Zenith",
+        "location": "Hybrid work in New York, NY 10014",
+        "salary": "$160,000 - $165,000 a year",
+        "job_type": "Full-time",
+        "schedule": "N/A"
+    },
+    {
+        "title": "10101 - Sr. Director, Data Exchange and Interoperability",
+        "company": "The Fund for Public Health in New York City",
+        "location": "Hybrid work in New York, NY 11101",
+        "salary": "$135,000 - $150,000 a year",
+        "job_type": "Full-time",
+        "schedule": "N/A"
+    },
+    {
+        "title": "Director of Data Platform",
+        "company": "A Place For Mom",
+        "location": "Remote in New York, NY",
         "salary": "N/A",
         "job_type": "N/A",
         "schedule": "N/A"
     },
     {
-        "title": "Marketing and Website Maintenance Manager",
-        "company": "Fine Fixtures",
-        "location": "Brooklyn, NY 11206\u00a0(Williamsburg area)",
-        "salary": "$68,960 - $76,405 a year",
-        "job_type": "Full-time",
-        "schedule": "Monday to Friday"
+        "title": "Senior Business and Marketing Data Scientist II",
+        "company": "Google",
+        "location": "New York, NY\u00a0(Chelsea area)",
+        "salary": "N/A",
+        "job_type": "N/A",
+        "schedule": "N/A"
     },
     {
-        "title": "Paid Marketing Associate",
-        "company": "J. Crew Group, Inc.",
+        "title": "Data Scientist II - Commercial Analytics",
+        "company": "Cedar Inc",
+        "location": "Hybrid work in New York, NY",
+        "salary": "$127,500 - $150,000 a year",
+        "job_type": "N/A",
+        "schedule": "N/A"
+    },
+    {
+        "title": "Staff Data Scientist, Product",
+        "company": "Google",
+        "location": "New York, NY\u00a0(Chelsea area)",
+        "salary": "N/A",
+        "job_type": "N/A",
+        "schedule": "N/A"
+    },
+    {
+        "title": "Data Scientist, Paramount Advertising",
+        "company": "Paramount",
+        "location": "New York, NY 10036",
+        "salary": "$98,400 - $123,000 a year",
+        "job_type": "Full-time",
+        "schedule": "N/A"
+    },
+    {
+        "title": "Executive Director \u2013 Data & Analytics Operations (Disney Entertainment)",
+        "company": "Disney Entertainment Television",
+        "location": "New York, NY",
+        "salary": "$253,100 - $339,400 a year",
+        "job_type": "N/A",
+        "schedule": "N/A"
+    },
+    {
+        "title": "Manager, Marketing Data Science",
+        "company": "Dow Jones",
+        "location": "New York, NY 10176",
+        "salary": "$110,000 - $135,000 a year",
+        "job_type": "N/A",
+        "schedule": "N/A"
+    },
+    {
+        "title": "Technical Program Manager III, Machine Learning Data, Assistant",
+        "company": "Google",
+        "location": "New York, NY\u00a0(Chelsea area)",
+        "salary": "N/A",
+        "job_type": "N/A",
+        "schedule": "N/A"
+    },
+    {
+        "title": "Data Scientist",
+        "company": "Nexxen",
         "location": "Hybrid work in New York, NY",
         "salary": "N/A",
         "job_type": "N/A",
         "schedule": "N/A"
     },
     {
-        "title": "CRM Manager, Creator Marketing",
+        "title": "Data Scientist, Marketing",
+        "company": "Captions",
+        "location": "New York, NY 10022\u00a0(Sutton Place area)",
+        "salary": "$160,000 - $220,000 a year",
+        "job_type": "Full-time",
+        "schedule": "N/A"
+    },
+    {
+        "title": "Member of Technical Staff - Data Scientist",
+        "company": "Microsoft",
+        "location": "Hybrid work in New York, NY",
+        "salary": "$137,600 - $294,000 a year",
+        "job_type": "Full-time",
+        "schedule": "N/A"
+    },
+    {
+        "title": "Crimes Against Revenue Financial Analyst, Frauds Bureau",
+        "company": "Queens District Attorney's Office",
+        "location": "Kew Gardens, NY",
+        "salary": "N/A",
+        "job_type": "N/A",
+        "schedule": "N/A"
+    },
+    {
+        "title": "Sr. Analyst, Fixed Income Data Science - Liberty Mutual Investments",
+        "company": "Liberty Mutual",
+        "location": "New York, NY 10005\u00a0(Financial District area)",
+        "salary": "$95,000 - $170,000 a year",
+        "job_type": "Full-time",
+        "schedule": "N/A"
+    },
+    {
+        "title": "Senior Data Scientist",
+        "company": "Canoe Intelligence",
+        "location": "Remote in New York, NY 10013",
+        "salary": "N/A",
+        "job_type": "N/A",
+        "schedule": "N/A"
+    },
+    {
+        "title": "Director, Data Science and Analytics",
+        "company": "Razorfish",
+        "location": "New York, NY 10014\u00a0(SoHo area)",
+        "salary": "$106,500 - $179,000 a year",
+        "job_type": "Full-time",
+        "schedule": "N/A"
+    },
+    {
+        "title": "Executive Director \u2013 Data & Analytics Operations (Disney Entertainment)",
+        "company": "Disney",
+        "location": "New York, NY",
+        "salary": "$253,100 - $339,400 a year",
+        "job_type": "N/A",
+        "schedule": "N/A"
+    },
+    {
+        "title": "Quantitative Analyst, Columbia Investment Management Company",
+        "company": "Columbia University",
+        "location": "New York, NY",
+        "salary": "$140,000 - $160,000 a year",
+        "job_type": "Full-time",
+        "schedule": "N/A"
+    },
+    {
+        "title": "Analyst, Model Monitoring",
+        "company": "Citi",
+        "location": "New York, NY",
+        "salary": "N/A",
+        "job_type": "N/A",
+        "schedule": "N/A"
+    },
+    {
+        "title": "Product Manager II, Artist Promotion Machine Learning",
         "company": "Spotify",
         "location": "New York, NY",
-        "salary": "$90,140 - $128,772 a year",
+        "salary": "$112,298 - $160,425 a year",
         "job_type": "Permanent",
         "schedule": "N/A"
     },
     {
-        "title": "VP TRADE MARKETING",
-        "company": "Consumer Packaged Goods Manufacturing Co.",
-        "location": "Hybrid work in New York, NY 10016",
-        "salary": "Up to $250,000 a year",
-        "job_type": "Full-time",
-        "schedule": "Monday to Friday +1"
-    },
-    {
-        "title": "Marketing Associate - Temp to Perm",
-        "company": "Just Salad",
-        "location": "New York, NY 10017",
-        "salary": "$30 - $35 an hour",
-        "job_type": "Full-time",
-        "schedule": "N/A"
-    },
-    {
-        "title": "Product Manager I, Privacy Sandbox, Developer Experiences",
-        "company": "Google",
-        "location": "New York, NY\u00a0(Chelsea area)",
-        "salary": "N/A",
-        "job_type": "N/A",
-        "schedule": "N/A"
-    },
-    {
-        "title": "Influencer Marketing Manager (Contingent)",
-        "company": "Amazon",
+        "title": "Systematic Credit Research",
+        "company": "AllianceBernstein",
         "location": "New York, NY",
-        "salary": "N/A",
-        "job_type": "N/A",
+        "salary": "$100,000 - $150,000 a year",
+        "job_type": "Full-time",
         "schedule": "N/A"
     },
     {
-        "title": "Manager of Individual Giving",
-        "company": "Helpusadopt.org",
-        "location": "Hybrid work in New York, NY 10022",
-        "salary": "$70,000 - $80,000 a year",
-        "job_type": "Full-time",
-        "schedule": "Monday to Friday"
-    },
-    {
-        "title": "Resy Marketing Data Analyst, Data and Analytics",
-        "company": "Amex",
+        "title": "Marketing Data Scientist",
+        "company": "Venmo",
         "location": "Hybrid work in New York, NY",
-        "salary": "N/A",
-        "job_type": "N/A",
+        "salary": "$72,700 - $176,000 a year",
+        "job_type": "Full-time",
         "schedule": "N/A"
     },
     {
-        "title": "Assistant Vice President, Digital Content Producer",
-        "company": "New York City Economic Development Corporation",
-        "location": "New York, NY",
-        "salary": "$100,000 - $103,000 a year",
-        "job_type": "N/A",
-        "schedule": "N/A"
-    },
-    {
-        "title": "Head of Marketing & Brand",
-        "company": "rePurpose Global",
+        "title": "Quantitative Strategist \u2013 Credit Strats",
+        "company": "Deutsche Bank",
         "location": "Hybrid work in New York, NY",
-        "salary": "N/A",
-        "job_type": "N/A",
-        "schedule": "N/A"
-    },
-    {
-        "title": "Marketing Content Manager",
-        "company": "Boqueria",
-        "location": "New York, NY 10001\u00a0(Chelsea area)",
-        "salary": "$60,000 - $80,000 a year",
+        "salary": "$180,000 - $250,000 a year",
         "job_type": "Full-time",
         "schedule": "N/A"
     },
     {
-        "title": "Event Ticketing Project Coordinator (Hybrid)",
-        "company": "Citi",
-        "location": "New York, NY",
-        "salary": "$78,320 - $109,280 a year",
-        "job_type": "Full-time",
-        "schedule": "Weekends as needed +1"
-    },
-    {
-        "title": "Executive Assistant, Marketing, Amazon Ads",
-        "company": "Amazon.com Services LLC",
-        "location": "New York, NY",
-        "salary": "N/A",
-        "job_type": "N/A",
-        "schedule": "N/A"
-    },
-    {
-        "title": "Chief Communications & Marketing Officer",
-        "company": "Upwardly Global",
-        "location": "Hybrid work in New York, NY 10018",
-        "salary": "N/A",
-        "job_type": "N/A",
-        "schedule": "N/A"
-    },
-    {
-        "title": "Manager, Global Social Media, Content and A&I, essie DMI",
-        "company": "L'Oreal",
-        "location": "Hybrid work in New York, NY 10001",
-        "salary": "N/A",
-        "job_type": "N/A",
-        "schedule": "N/A"
-    },
-    {
-        "title": "Director, Influencer Marketing",
-        "company": "Edelman",
-        "location": "New York, NY 10013\u00a0(Tribeca area)",
-        "salary": "$79,000 - $115,000 a year",
-        "job_type": "Full-time",
-        "schedule": "N/A"
-    },
-    {
-        "title": "Specialist, Post Production",
-        "company": "Tiffany & Co.",
-        "location": "New York, NY",
-        "salary": "N/A",
-        "job_type": "N/A",
-        "schedule": "N/A"
-    },
-    {
-        "title": "DIGITAL GROWTH & PROJECTS SPECIALIST",
-        "company": "Louis Vuitton",
-        "location": "New York, NY\u00a0(Midtown area)",
-        "salary": "N/A",
-        "job_type": "N/A",
-        "schedule": "N/A"
-    },
-    {
-        "title": "Social Media Specialist",
-        "company": "Stellar Development Foundation",
-        "location": "New York, NY",
-        "salary": "$90,000 - $120,000 a year",
-        "job_type": "N/A",
-        "schedule": "N/A"
-    },
-    {
-        "title": "VP TRADE MARKETING",
-        "company": "Consumer Packaged Goods Manufacturing Co.",
-        "location": "Hybrid work in New York, NY 10016",
-        "salary": "Up to $250,000 a year",
-        "job_type": "Full-time",
-        "schedule": "Monday to Friday +1"
-    },
-    {
-        "title": "Head of Influencer Marketing , Shopbop Brand Marketing",
-        "company": "Bop LLC - A95",
-        "location": "New York, NY",
-        "salary": "$124,100 - $205,200 a year",
-        "job_type": "Full-time",
-        "schedule": "N/A"
-    },
-    {
-        "title": "US Velsipity Consumer Marketing Director",
+        "title": "Director, Oncology Patient Solutions Strategy and Analytics",
         "company": "Pfizer",
         "location": "New York, NY",
         "salary": "$149,200 - $248,600 a year",
@@ -344,499 +320,1123 @@
         "schedule": "N/A"
     },
     {
-        "title": "Marketing Manager, Events",
+        "title": "Net Zero Program Manager",
+        "company": "U.S. Bank National Association",
+        "location": "New York, NY 10036",
+        "salary": "$128,435 - $166,210 a year",
+        "job_type": "Full-time",
+        "schedule": "N/A"
+    },
+    {
+        "title": "Data Analytics Lead",
+        "company": "Meta",
+        "location": "New York, NY",
+        "salary": "$150,000 - $213,000 a year",
+        "job_type": "N/A",
+        "schedule": "N/A"
+    },
+    {
+        "title": "FX Data and Analytics Analyst (KDB)",
+        "company": "Brown Brothers Harriman",
+        "location": "New York, NY",
+        "salary": "N/A",
+        "job_type": "N/A",
+        "schedule": "N/A"
+    },
+    {
+        "title": "Data Scientist, Demand Forecasting",
+        "company": "Amazon.com Services LLC",
+        "location": "New York, NY",
+        "salary": "N/A",
+        "job_type": "N/A",
+        "schedule": "N/A"
+    },
+    {
+        "title": "Data Integration Team Lead",
+        "company": "Riskified",
+        "location": "Hybrid work in New York, NY 10001",
+        "salary": "N/A",
+        "job_type": "N/A",
+        "schedule": "N/A"
+    },
+    {
+        "title": "Data Scientist",
+        "company": "Twitch Interactive, Inc.",
+        "location": "San Francisco, CA",
+        "salary": "N/A",
+        "job_type": "N/A",
+        "schedule": "N/A"
+    },
+    {
+        "title": "Human - AI Interaction Specialist",
+        "company": "OpenAI",
+        "location": "Hybrid work in San Francisco, CA",
+        "salary": "$245,000 - $310,000 a year",
+        "job_type": "N/A",
+        "schedule": "N/A"
+    },
+    {
+        "title": "Machine Learning Engineer",
+        "company": "DocuSign",
+        "location": "Hybrid work in San Francisco, CA",
+        "salary": "$116,500 - $190,650 a year",
+        "job_type": "N/A",
+        "schedule": "N/A"
+    },
+    {
+        "title": "Data Validation Associate",
+        "company": "Windfall",
+        "location": "San Francisco, CA",
+        "salary": "N/A",
+        "job_type": "N/A",
+        "schedule": "N/A"
+    },
+    {
+        "title": "Data Science - Sr Consultant Level",
+        "company": "Visa",
+        "location": "Hybrid work in Foster City, CA",
+        "salary": "N/A",
+        "job_type": "N/A",
+        "schedule": "N/A"
+    },
+    {
+        "title": "Research Engineer, Pre-training Data Processing",
+        "company": "OpenAI",
+        "location": "San Francisco, CA\u00a0(Mission area)",
+        "salary": "N/A",
+        "job_type": "N/A",
+        "schedule": "N/A"
+    },
+    {
+        "title": "Head of Data Science",
+        "company": "Arable",
+        "location": "Hybrid work in San Francisco Bay Area, CA",
+        "salary": "N/A",
+        "job_type": "N/A",
+        "schedule": "N/A"
+    },
+    {
+        "title": "Sr. Data Analyst",
+        "company": "DocuSign",
+        "location": "Hybrid work in San Francisco, CA",
+        "salary": "N/A",
+        "job_type": "N/A",
+        "schedule": "N/A"
+    },
+    {
+        "title": "Research Scientist - CoT, Science of Deep Learning",
+        "company": "OpenAI",
+        "location": "San Francisco, CA\u00a0(Mission area)",
+        "salary": "$295,000 - $440,000 a year",
+        "job_type": "N/A",
+        "schedule": "N/A"
+    },
+    {
+        "title": "Computational and Data Science Research",
+        "company": "University of California San Francisco",
+        "location": "San Francisco, CA 94143\u00a0(Inner Sunset area)",
+        "salary": "N/A",
+        "job_type": "Monday to Friday +2",
+        "schedule": "N/A"
+    },
+    {
+        "title": "Staff Data Scientist New",
+        "company": "FLYR Labs",
+        "location": "San Francisco, CA",
+        "salary": "$169,000 - $237,000 a year",
+        "job_type": "N/A",
+        "schedule": "N/A"
+    },
+    {
+        "title": "Dir Data Science",
         "company": "Fanatics, Inc.",
-        "location": "Hybrid work in New York, NY 10014",
+        "location": "San Mateo, CA 94403",
         "salary": "N/A",
         "job_type": "N/A",
         "schedule": "N/A"
     },
     {
-        "title": "Associate Director Content Strategy",
-        "company": "Verizon",
-        "location": "Hybrid work in New York, NY",
-        "salary": "$121,000 - $246,000 a year",
-        "job_type": "Full-time +1",
-        "schedule": "N/A"
-    },
-    {
-        "title": "Marketing Manager",
-        "company": "Salsa Sabrosa LLC",
-        "location": "New York, NY 10001\u00a0(Garment District area)",
+        "title": "Data Scientist",
+        "company": "University of California San Francisco",
+        "location": "San Francisco, CA 94143\u00a0(Inner Sunset area)",
         "salary": "N/A",
         "job_type": "N/A",
         "schedule": "N/A"
     },
     {
-        "title": "Vice President of Digital Marketing",
-        "company": "The Fesco Group",
-        "location": "Brooklyn, NY 11211",
+        "title": "Data Analyst, GBM - MPIE",
+        "company": "TikTok",
+        "location": "San Francisco, CA",
+        "salary": "N/A",
+        "job_type": "N/A",
+        "schedule": "N/A"
+    },
+    {
+        "title": "Data Science Manager - Product Analytics",
+        "company": "Handshake",
+        "location": "Hybrid work in San Francisco Bay Area, CA",
+        "salary": "N/A",
+        "job_type": "N/A",
+        "schedule": "N/A"
+    },
+    {
+        "title": "Data Science Manager - Product Analytics",
+        "company": "Handshake",
+        "location": "Hybrid work in San Francisco Bay Area, CA",
+        "salary": "N/A",
+        "job_type": "N/A",
+        "schedule": "N/A"
+    },
+    {
+        "title": "Power BI Analyst",
+        "company": "ENTRUST Solutions Group",
+        "location": "Hybrid work in Oakland, CA 94611",
+        "salary": "N/A",
+        "job_type": "N/A",
+        "schedule": "N/A"
+    },
+    {
+        "title": "Product Manager, Global Data Services",
+        "company": "Visa",
+        "location": "Hybrid work in Foster City, CA",
+        "salary": "$113,700 - $163,800 a year",
+        "job_type": "Full-time",
+        "schedule": "N/A"
+    },
+    {
+        "title": "Associate Director, Biologics Data Science",
+        "company": "Merck Sharp & Dohme",
+        "location": "South San Francisco, CA 94080",
+        "salary": "$151,900 - $239,200 a year",
+        "job_type": "Full-time",
+        "schedule": "Day shift"
+    },
+    {
+        "title": "Head of Data and Analytics",
+        "company": "LiveRamp",
+        "location": "San Francisco, CA",
+        "salary": "$256,500 - $302,000 a year",
+        "job_type": "Full-time",
+        "schedule": "N/A"
+    },
+    {
+        "title": "Data Scientist, Music Search Platform - Science & Modeling",
+        "company": "Amazon.com Services LLC",
+        "location": "San Francisco, CA",
+        "salary": "$97,500 - $206,800 a year",
+        "job_type": "Full-time",
+        "schedule": "N/A"
+    },
+    {
+        "title": "Data Scientist",
+        "company": "Vivo",
+        "location": "San Mateo, CA",
+        "salary": "N/A",
+        "job_type": "N/A",
+        "schedule": "N/A"
+    },
+    {
+        "title": "Data Scientist, Human Data",
+        "company": "OpenAI",
+        "location": "San Francisco, CA\u00a0(Mission area)",
+        "salary": "N/A",
+        "job_type": "N/A",
+        "schedule": "N/A"
+    },
+    {
+        "title": "Data Science Manager",
+        "company": "Atlassian",
+        "location": "Remote in San Francisco, CA 94104",
+        "salary": "N/A",
+        "job_type": "N/A",
+        "schedule": "N/A"
+    },
+    {
+        "title": "Staff Data Scientist, Member Insights",
+        "company": "SoFi",
+        "location": "San Francisco, CA",
+        "salary": "N/A",
+        "job_type": "N/A",
+        "schedule": "N/A"
+    },
+    {
+        "title": "Health Data Science Training Lead (HDSTL)",
+        "company": "University of California San Francisco",
+        "location": "San Francisco, CA 94143\u00a0(Inner Sunset area)",
+        "salary": "$84,400 - $180,000 a year",
+        "job_type": "Full-time",
+        "schedule": "Monday to Friday"
+    },
+    {
+        "title": "Computational Biologist, Viral Genomics",
+        "company": "Verily",
+        "location": "San Bruno, CA",
+        "salary": "N/A",
+        "job_type": "N/A",
+        "schedule": "N/A"
+    },
+    {
+        "title": "Senior Manager, Data Science-Manager of the Center of Excellence in Data Science and AI",
+        "company": "PG&E Corporation",
+        "location": "Hybrid work in Oakland, CA 94612",
+        "salary": "$167,000 - $284,000 a year",
+        "job_type": "Full-time",
+        "schedule": "N/A"
+    },
+    {
+        "title": "Head of Data Science",
+        "company": "Aircall",
+        "location": "San Francisco, CA",
+        "salary": "N/A",
+        "job_type": "N/A",
+        "schedule": "N/A"
+    },
+    {
+        "title": "Data Analyst",
+        "company": "Public Health Foundation Enterprises, In",
+        "location": "San Francisco, CA 94103",
+        "salary": "$35.87 an hour",
+        "job_type": "Full-time",
+        "schedule": "N/A"
+    },
+    {
+        "title": "Staff Marketing Data Scientist",
+        "company": "PlayStation Global",
+        "location": "San Mateo, CA",
+        "salary": "N/A",
+        "job_type": "N/A",
+        "schedule": "N/A"
+    },
+    {
+        "title": "Manager, Core Data Science",
+        "company": "Zoox",
+        "location": "Foster City, CA",
+        "salary": "$239,000 - $300,000 a year",
+        "job_type": "Full-time",
+        "schedule": "N/A"
+    },
+    {
+        "title": "Director, Data Science \u2013 Customer Engineering",
+        "company": "Adobe",
+        "location": "San Francisco, CA 94103\u00a0(Mission Bay area)",
+        "salary": "$191,700 - $345,700 a year",
+        "job_type": "Full-time",
+        "schedule": "N/A"
+    },
+    {
+        "title": "Research Scientist, Mid-training - Synthetic Data",
+        "company": "OpenAI",
+        "location": "Hybrid work in San Francisco, CA",
+        "salary": "$360,000 - $440,000 a year",
+        "job_type": "N/A",
+        "schedule": "N/A"
+    },
+    {
+        "title": "Data Scientist, Signal Processing and Machine Learning",
+        "company": "Verily",
+        "location": "San Bruno, CA",
+        "salary": "N/A",
+        "job_type": "N/A",
+        "schedule": "N/A"
+    },
+    {
+        "title": "Data & Policy Analyst",
+        "company": "Federal Reserve Bank of San Francisco",
+        "location": "Hybrid work in San Francisco, CA",
+        "salary": "N/A",
+        "job_type": "N/A",
+        "schedule": "N/A"
+    },
+    {
+        "title": "Senior Data Analyst",
+        "company": "Abbott Laboratories",
+        "location": "Alameda, CA",
+        "salary": "N/A",
+        "job_type": "N/A",
+        "schedule": "N/A"
+    },
+    {
+        "title": "Financial Analyst",
+        "company": "University of California San Francisco",
+        "location": "San Francisco, CA 94143\u00a0(Inner Sunset area)",
+        "salary": "$85,700 - $128,600 a year",
+        "job_type": "Full-time",
+        "schedule": "Monday to Friday +2"
+    },
+    {
+        "title": "Staff Data Scientist, Analytics - Notifications",
+        "company": "Discord",
+        "location": "San Francisco, CA 94107\u00a0(Potrero Hill area)",
+        "salary": "$223,000 - $245,500 a year",
+        "job_type": "Full-time",
+        "schedule": "N/A"
+    },
+    {
+        "title": "SVP, Data and Analytics",
+        "company": "LendingClub",
+        "location": "San Francisco, CA\u00a0(Financial District/South Beach area)",
+        "salary": "N/A",
+        "job_type": "N/A",
+        "schedule": "N/A"
+    },
+    {
+        "title": "Applied AI Researcher",
+        "company": "Recruiting From Scratch",
+        "location": "Remote in San Francisco, CA 94109",
+        "salary": "N/A",
+        "job_type": "N/A",
+        "schedule": "N/A"
+    },
+    {
+        "title": "Data Scientist, GTM",
+        "company": "OpenAI",
+        "location": "Hybrid work in San Francisco, CA",
+        "salary": "N/A",
+        "job_type": "N/A",
+        "schedule": "N/A"
+    },
+    {
+        "title": "Senior Data Scientist, Analytics - Performance & Quality",
+        "company": "Discord",
+        "location": "San Francisco, CA 94107\u00a0(Potrero Hill area)",
+        "salary": "$183,000 - $201,500 a year",
+        "job_type": "Full-time",
+        "schedule": "N/A"
+    },
+    {
+        "title": "Staff Data Scientist, Dashboard Analytics",
+        "company": "Afterpay",
+        "location": "San Francisco, CA",
+        "salary": "$146,000 - $257,600 a year",
+        "job_type": "Full-time",
+        "schedule": "N/A"
+    },
+    {
+        "title": "Post-training - Evaluation Scientist",
+        "company": "OpenAI",
+        "location": "Hybrid work in San Francisco, CA",
+        "salary": "$295,000 - $440,000 a year",
+        "job_type": "N/A",
+        "schedule": "N/A"
+    },
+    {
+        "title": "Data Standardization Staff Member",
+        "company": "PointCross Life Sciences",
+        "location": "Foster City, CA",
+        "salary": "N/A",
+        "job_type": "N/A",
+        "schedule": "N/A"
+    },
+    {
+        "title": "Senior Data Scientist",
+        "company": "Amplify",
+        "location": "San Francisco, CA",
+        "salary": "N/A",
+        "job_type": "N/A",
+        "schedule": "N/A"
+    },
+    {
+        "title": "Data Scientist (updated 6-11-24)",
+        "company": "Lawrence Berkeley National Laboratory",
+        "location": "Hybrid work in San Francisco Bay Area, CA",
+        "salary": "N/A",
+        "job_type": "N/A",
+        "schedule": "N/A"
+    },
+    {
+        "title": "Staff Data Scientist - Marketing",
+        "company": "Afterpay",
+        "location": "Remote in San Francisco, CA",
+        "salary": "$207,900 - $311,900 a year",
+        "job_type": "Full-time",
+        "schedule": "N/A"
+    },
+    {
+        "title": "Coppe Lab - Junior or Assistant Specialist",
+        "company": "UC San Francisco Academic",
+        "location": "San Francisco, CA",
+        "salary": "$53,100 - $68,300 a year",
+        "job_type": "N/A",
+        "schedule": "N/A"
+    },
+    {
+        "title": "IT Data Analyst, Senior",
+        "company": "Blue Shield of California",
+        "location": "Hybrid work in Oakland, CA 94607",
+        "salary": "$99,000 - $148,500 a year",
+        "job_type": "Full-time",
+        "schedule": "N/A"
+    },
+    {
+        "title": "Scientist II, Product (multiple teams hiring)",
+        "company": "Uber",
+        "location": "San Francisco, CA",
+        "salary": "$149,000 - $165,500 a year",
+        "job_type": "Full-time",
+        "schedule": "N/A"
+    },
+    {
+        "title": "Associate Director, Data Science",
+        "company": "Maze Therapeutics",
+        "location": "South San Francisco, CA",
+        "salary": "$202,000 - $245,000 a year",
+        "job_type": "N/A",
+        "schedule": "N/A"
+    },
+    {
+        "title": "Consultant - Energy Providers West, General Management Consulting - Campus 2025",
+        "company": "Guidehouse",
+        "location": "San Francisco, CA 94111\u00a0(Financial District/South Beach area)",
+        "salary": "$54,300 - $81,500 a year",
+        "job_type": "N/A",
+        "schedule": "N/A"
+    },
+    {
+        "title": "Strategic and Operational Data Analytics Manager",
+        "company": "Dolls Kill",
+        "location": "Oakland, CA 94607",
+        "salary": "$175,000 - $190,000 a year",
+        "job_type": "Full-time",
+        "schedule": "N/A"
+    },
+    {
+        "title": "Data Visualization Developer (0652U) 70377",
+        "company": "University of California Berkeley",
+        "location": "Berkeley, CA 94720",
+        "salary": "N/A",
+        "job_type": "N/A",
+        "schedule": "N/A"
+    },
+    {
+        "title": "Member of Technical Staff, AI",
+        "company": "Coframe",
+        "location": "San Francisco, CA",
+        "salary": "N/A",
+        "job_type": "N/A",
+        "schedule": "N/A"
+    },
+    {
+        "title": "Scientist I, Cell and Molecular Biology",
+        "company": "AbbVie",
+        "location": "South San Francisco, CA",
+        "salary": "N/A",
+        "job_type": "N/A",
+        "schedule": "N/A"
+    },
+    {
+        "title": "Machine Learning Engineer 5",
+        "company": "Adobe",
+        "location": "San Francisco, CA 94103\u00a0(Mission Bay area)",
+        "salary": "$150,700 - $284,400 a year",
+        "job_type": "Full-time",
+        "schedule": "N/A"
+    },
+    {
+        "title": "Staff Data Scientist",
+        "company": "Abbott Laboratories",
+        "location": "Alameda, CA",
+        "salary": "N/A",
+        "job_type": "N/A",
+        "schedule": "N/A"
+    },
+    {
+        "title": "Data Scientist, Data Strategy and Analytics",
+        "company": "Abbott Laboratories",
+        "location": "Alameda, CA",
+        "salary": "N/A",
+        "job_type": "N/A",
+        "schedule": "N/A"
+    },
+    {
+        "title": "VP, Analytics",
+        "company": "Ingenio, LLC",
+        "location": "San Francisco, CA",
+        "salary": "$250,000 - $280,000 a year",
+        "job_type": "Full-time",
+        "schedule": "N/A"
+    },
+    {
+        "title": "Machine Learning Engineer",
+        "company": "DocuSign",
+        "location": "Hybrid work in San Francisco, CA",
+        "salary": "$116,500 - $190,650 a year",
+        "job_type": "N/A",
+        "schedule": "N/A"
+    },
+    {
+        "title": "Senior Product Manager, Visual AI",
+        "company": "Pinterest",
+        "location": "Remote in San Francisco, CA",
+        "salary": "N/A",
+        "job_type": "N/A",
+        "schedule": "N/A"
+    },
+    {
+        "title": "Senior Analytics Lead",
+        "company": "Genentech",
+        "location": "San Francisco, CA 94015",
+        "salary": "$131,900 - $244,900 a year",
+        "job_type": "Full-time",
+        "schedule": "N/A"
+    },
+    {
+        "title": "Senior Data Engineer",
+        "company": "Discord",
+        "location": "San Francisco, CA 94107\u00a0(Potrero Hill area)",
+        "salary": "N/A",
+        "job_type": "N/A",
+        "schedule": "N/A"
+    },
+    {
+        "title": "Strategic Sourcing Leader, Research & AI",
+        "company": "OpenAI",
+        "location": "Hybrid work in San Francisco, CA",
+        "salary": "$295,000 a year",
+        "job_type": "N/A",
+        "schedule": "N/A"
+    },
+    {
+        "title": "Lead Data Engineer, Data and Systems",
+        "company": "Pendulum\u2122",
+        "location": "San Francisco, CA",
+        "salary": "N/A",
+        "job_type": "N/A",
+        "schedule": "N/A"
+    },
+    {
+        "title": "Sr. Child Welfare Data Analyst (Limited Term Sr. Analyst)",
+        "company": "Judicial Council of California",
+        "location": "Hybrid work in San Francisco, CA 94102",
+        "salary": "$7,710 - $11,565 a month",
+        "job_type": "Full-time",
+        "schedule": "N/A"
+    },
+    {
+        "title": "Technical Sourcer, Machine Learning Research",
+        "company": "Scale AI",
+        "location": "San Francisco, CA",
         "salary": "$125,000 - $150,000 a year",
         "job_type": "Full-time",
         "schedule": "N/A"
     },
     {
-        "title": "Brand Activations & Partnerships Coordinator, Brand Marketing, Shopbop",
-        "company": "Bop LLC",
-        "location": "New York, NY",
-        "salary": "$39,900 - $85,400 a year",
+        "title": "Technical Recruiter, Machine Learning",
+        "company": "Scale AI",
+        "location": "San Francisco, CA",
+        "salary": "$160,000 - $203,000 a year",
         "job_type": "Full-time",
         "schedule": "N/A"
     },
     {
-        "title": "Influencer Affiliate Marketing Coordinator - Contractor",
-        "company": "Live Nation",
-        "location": "New York, NY",
-        "salary": "$30 - $32 an hour",
-        "job_type": "Full-time",
-        "schedule": "N/A"
-    },
-    {
-        "title": "Product Marketing Associate",
-        "company": "RR Donnelley",
-        "location": "Hybrid work in New York, NY",
-        "salary": "$73,500 - $120,800 a year",
-        "job_type": "Full-time",
-        "schedule": "N/A"
-    },
-    {
-        "title": "Marketing Director, Commercial Office",
-        "company": "Related",
-        "location": "New York, NY 10001\u00a0(NoMad area)",
-        "salary": "$140,000 - $160,000 a year",
-        "job_type": "Full-time",
-        "schedule": "N/A"
-    },
-    {
-        "title": "Junior Strategist",
-        "company": "Influencer",
-        "location": "Hybrid work in New York, NY 10007",
-        "salary": "Up to $65,000 a year",
-        "job_type": "N/A",
-        "schedule": "N/A"
-    },
-    {
-        "title": "Director, Development & Marketing",
-        "company": "Public Health Solutions",
-        "location": "Hybrid work in New York, NY 10013",
-        "salary": "$120,000 - $135,000 a year",
-        "job_type": "Full-time",
-        "schedule": "N/A"
-    },
-    {
-        "title": "Marketing Coordinator",
-        "company": "NBBJ",
-        "location": "New York, NY 10003",
-        "salary": "$27 - $34 an hour",
-        "job_type": "N/A",
-        "schedule": "N/A"
-    },
-    {
-        "title": "Manager, Communications, Sustainability",
-        "company": "The Travelers Companies, Inc.",
-        "location": "Hybrid work in New York, NY",
-        "salary": "$96,600 - $159,400 a year",
-        "job_type": "Full-time",
-        "schedule": "N/A"
-    },
-    {
-        "title": "Customer Success Manager, Email Marketing- Dynamic Yield",
-        "company": "Mastercard",
-        "location": "New York, NY",
-        "salary": "$95,000 - $120,000 a year",
-        "job_type": "Full-time",
-        "schedule": "N/A"
-    },
-    {
-        "title": "Associate Creative Director",
-        "company": "Engine Shop",
-        "location": "Remote in New York, NY",
+        "title": "STAFF001467 Staff Research Associate III (Data Scientist)",
+        "company": "Northern California Institute for Research and...",
+        "location": "San Francisco, CA 94121\u00a0(Lincoln Park area)",
         "salary": "N/A",
         "job_type": "N/A",
         "schedule": "N/A"
     },
     {
-        "title": "Public Relations Assistant",
-        "company": "Carol Leggett Public Relations",
-        "location": "Hybrid work in New York, NY 10011",
-        "salary": "N/A",
-        "job_type": "N/A",
-        "schedule": "N/A"
-    },
-    {
-        "title": "Director of Marketing and Communications",
-        "company": "JCCA",
-        "location": "Brooklyn, NY",
-        "salary": "N/A",
-        "job_type": "N/A",
-        "schedule": "N/A"
-    },
-    {
-        "title": "Marketing Coordinator (Hybrid)",
-        "company": "Tetra Tech",
-        "location": "New York, NY",
-        "salary": "N/A",
-        "job_type": "N/A",
-        "schedule": "N/A"
-    },
-    {
-        "title": "Marketing Assistant",
-        "company": "YMCA of Glendale, CA",
-        "location": "Glendale, CA 91206\u00a0(Glendale area)",
-        "salary": "$18 - $20 an hour",
-        "job_type": "Part-time",
-        "schedule": "10 to 15 hours per week"
-    },
-    {
-        "title": "Digital Marketing Manager - Los Angeles, Ca. REMOTE",
-        "company": "Mathnasium Learning Centers",
-        "location": "Hybrid work in Los Angeles, CA 90056",
-        "salary": "$80,000 - $105,000 a year",
+        "title": "Applied Scientist III (Multiple Openings)",
+        "company": "Uber Freight",
+        "location": "Remote in San Francisco, CA 94158",
+        "salary": "$202,197.79 - $205,500.00 a year",
         "job_type": "Full-time",
-        "schedule": "Monday to Friday"
+        "schedule": "N/A"
     },
     {
-        "title": "Brand Demo Representative - HB",
-        "company": "Sigma",
-        "location": "Vernon, CA",
-        "salary": "$34,571 - $48,016 a year",
-        "job_type": "Full-time",
-        "schedule": "Monday to Friday +3"
+        "title": "Senior Data Scientist, Analytics",
+        "company": "Quizlet",
+        "location": "Hybrid work in San Francisco, CA",
+        "salary": "N/A",
+        "job_type": "N/A",
+        "schedule": "N/A"
     },
     {
-        "title": "Digital Marketing Manager - Meta Ads 5+ ROAS - Waterless Skincare",
-        "company": "Olive Tree People Inc.",
-        "location": "Santa Monica, CA 90401\u00a0(Wilshire/Montana area)",
-        "salary": "$25 - $35 an hour",
+        "title": "Machine Learning/Data Scientist",
+        "company": "Zenith Services",
+        "location": "San Bruno, CA",
+        "salary": "$75 an hour",
+        "job_type": "N/A",
+        "schedule": "N/A"
+    },
+    {
+        "title": "AI Data Trainer - Mathematics Specialist",
+        "company": "Outlier Ai",
+        "location": "Texas",
+        "salary": "$30 - $50 an hour",
+        "job_type": "Contract +1",
+        "schedule": "Overtime"
+    },
+    {
+        "title": "AI Mathematics Trainer & Evaluator",
+        "company": "Outlier Ai",
+        "location": "Texas",
+        "salary": "$30 - $50 an hour",
+        "job_type": "Contract +1",
+        "schedule": "Overtime"
+    },
+    {
+        "title": "Trading Data Compliance Specialist",
+        "company": "Primary Services",
+        "location": "Houston, TX",
+        "salary": "$95,000 - $105,000 a year",
         "job_type": "Full-time +1",
-        "schedule": "Monday to Friday"
+        "schedule": "8 hour shift"
     },
     {
-        "title": "Vice President of Marketing and Communications",
-        "company": "Olive Tree People, Inc.",
-        "location": "Venice, CA 90291",
-        "salary": "$145,000 - $175,000 a year",
+        "title": "Senior Associate Data Analyst",
+        "company": "Discover Financial Services",
+        "location": "Houston, TX 77040",
+        "salary": "$65,000 - $109,800 a year",
+        "job_type": "N/A",
+        "schedule": "N/A"
+    },
+    {
+        "title": "Senior Data Scientist",
+        "company": "Verizon",
+        "location": "Hybrid work in Houston, TX",
+        "salary": "$110,000 - $205,000 a year",
         "job_type": "Full-time +1",
+        "schedule": "N/A"
+    },
+    {
+        "title": "Assistant Professor of Data Science",
+        "company": "University of Houston",
+        "location": "Houston, TX",
+        "salary": "N/A",
+        "job_type": "N/A",
+        "schedule": "N/A"
+    },
+    {
+        "title": "Technical Business Data Analyst",
+        "company": "Resolvetech Solutions",
+        "location": "Houston, TX 77002\u00a0(Midtown area)",
+        "salary": "N/A",
+        "job_type": "N/A",
+        "schedule": "N/A"
+    },
+    {
+        "title": "Director Data Science - Core AI",
+        "company": "Publicis Sapient",
+        "location": "Houston, TX 77002\u00a0(Downtown area)",
+        "salary": "$222,000 - $333,000 a year",
+        "job_type": "Full-time",
+        "schedule": "N/A"
+    },
+    {
+        "title": "Supply Chain Operations Data Science Director - Supply Chain Inventory Optimization",
+        "company": "Hewlett Packard",
+        "location": "Spring, TX 77389",
+        "salary": "$146,650 - $234,600 a year",
+        "job_type": "N/A",
+        "schedule": "N/A"
+    },
+    {
+        "title": "Business Data Analyst (Python)",
+        "company": "Solstice Consulting Group",
+        "location": "Houston, TX",
+        "salary": "N/A",
+        "job_type": "N/A",
+        "schedule": "N/A"
+    },
+    {
+        "title": "Analyst HSE Data",
+        "company": "Occidental Petroleum Corporation",
+        "location": "Houston, TX",
+        "salary": "N/A",
+        "job_type": "N/A",
+        "schedule": "N/A"
+    },
+    {
+        "title": "Sr. Data Analyst",
+        "company": "Spruce Power",
+        "location": "Houston, TX 77024",
+        "salary": "N/A",
+        "job_type": "N/A",
+        "schedule": "N/A"
+    },
+    {
+        "title": "Analyst, Corporate Development and Investor Relations I",
+        "company": "Nabors Industries",
+        "location": "Houston, TX\u00a0(Greenspoint area)",
+        "salary": "N/A",
+        "job_type": "N/A",
+        "schedule": "N/A"
+    },
+    {
+        "title": "Systems Analyst - Systems Biology",
+        "company": "MD Anderson Cancer Center",
+        "location": "Houston, TX 77030\u00a0(Medical Center area)",
+        "salary": "$75,000 - $113,000 a year",
+        "job_type": "Full-time",
+        "schedule": "N/A"
+    },
+    {
+        "title": "Executive Assistant",
+        "company": "Argus Media",
+        "location": "Hybrid work in Houston, TX 77019",
+        "salary": "N/A",
+        "job_type": "N/A",
+        "schedule": "N/A"
+    },
+    {
+        "title": "Senior Analyst",
+        "company": "Discover Financial Services",
+        "location": "Houston, TX 77040",
+        "salary": "$65,000 - $109,800 a year",
+        "job_type": "N/A",
+        "schedule": "N/A"
+    },
+    {
+        "title": "Research Nutritionist - Research Associate",
+        "company": "US Agricultural Research Service",
+        "location": "Houston, TX 77030\u00a0(Medical Center area)",
+        "salary": "N/A",
+        "job_type": "N/A",
+        "schedule": "N/A"
+    },
+    {
+        "title": "Senior Market Data Analyst - Dry Bulk Commodities",
+        "company": "Kpler",
+        "location": "Houston, TX",
+        "salary": "N/A",
+        "job_type": "N/A",
+        "schedule": "N/A"
+    },
+    {
+        "title": "Senior Data Engineer & Support (R-Shiny)",
+        "company": "Argus Media",
+        "location": "Hybrid work in Houston, TX 77019",
+        "salary": "N/A",
+        "job_type": "N/A",
+        "schedule": "N/A"
+    },
+    {
+        "title": "Business Data Analyst",
+        "company": "NOV Inc.",
+        "location": "Houston, TX 77042\u00a0(Westchase area)",
+        "salary": "N/A",
+        "job_type": "N/A",
+        "schedule": "N/A"
+    },
+    {
+        "title": "Battery Data Engineer",
+        "company": "Fluence Energy",
+        "location": "Houston, TX",
+        "salary": "N/A",
+        "job_type": "N/A",
+        "schedule": "N/A"
+    },
+    {
+        "title": "Lead Data Scientist",
+        "company": "ClearpointCo.",
+        "location": "Houston, TX",
+        "salary": "N/A",
+        "job_type": "N/A",
+        "schedule": "N/A"
+    },
+    {
+        "title": "Trade Settlements Analyst",
+        "company": "Vitol",
+        "location": "Houston, TX",
+        "salary": "N/A",
+        "job_type": "N/A",
+        "schedule": "N/A"
+    },
+    {
+        "title": "Sr. Service Desk Analyst \u2013 Texas Education Exchange",
+        "company": "Region 4 Education Service Center",
+        "location": "Houston, TX 77092\u00a0(Cypress-Fairbanks area)",
+        "salary": "N/A",
+        "job_type": "N/A",
+        "schedule": "N/A"
+    },
+    {
+        "title": "Personalization & Testing Coordinator",
+        "company": "David Weekley Homes",
+        "location": "Houston, TX\u00a0(Spring Branch area)",
+        "salary": "N/A",
+        "job_type": "N/A",
+        "schedule": "N/A"
+    },
+    {
+        "title": "Sr Petrophysical Data Advisor",
+        "company": "Occidental Petroleum Corporation",
+        "location": "Houston, TX",
+        "salary": "N/A",
+        "job_type": "N/A",
+        "schedule": "N/A"
+    },
+    {
+        "title": "Technical Sales Consultant I - III - Landmark Software & Services",
+        "company": "Halliburton",
+        "location": "Houston, TX 77032\u00a0(IAH - Airport area)",
+        "salary": "N/A",
+        "job_type": "N/A",
+        "schedule": "N/A"
+    },
+    {
+        "title": "ANALYST- APPLICATION DEV SR.",
+        "company": "Kinder Morgan",
+        "location": "Houston, TX 77002\u00a0(Downtown area)",
+        "salary": "N/A",
+        "job_type": "N/A",
+        "schedule": "N/A"
+    },
+    {
+        "title": "Lead Data Scientist",
+        "company": "FalconSmartIT",
+        "location": "Houston, TX 77018",
+        "salary": "N/A",
+        "job_type": "N/A",
+        "schedule": "N/A"
+    },
+    {
+        "title": "Senior Data Scientist, Performance Analytics",
+        "company": "ENGIE North America Inc.",
+        "location": "Hybrid work in Houston, TX 77056",
+        "salary": "N/A",
+        "job_type": "N/A",
+        "schedule": "N/A"
+    },
+    {
+        "title": "Senior Data Scientist, Performance Analytics",
+        "company": "ENGIE North America Inc.",
+        "location": "Hybrid work in Houston, TX 77056",
+        "salary": "N/A",
+        "job_type": "N/A",
+        "schedule": "N/A"
+    },
+    {
+        "title": "Data Scientist",
+        "company": "Chord Energy",
+        "location": "Hybrid work in Houston, TX",
+        "salary": "N/A",
+        "job_type": "N/A",
+        "schedule": "N/A"
+    },
+    {
+        "title": "Senior Developer Information Technology - ODM",
+        "company": "United Airlines",
+        "location": "Houston, TX",
+        "salary": "N/A",
+        "job_type": "N/A",
+        "schedule": "N/A"
+    },
+    {
+        "title": "Product Pricing Analyst",
+        "company": "BMC Software",
+        "location": "Remote in Houston, TX",
+        "salary": "N/A",
+        "job_type": "N/A",
+        "schedule": "N/A"
+    },
+    {
+        "title": "Lead Data Scientist - Optimization",
+        "company": "The Friedkin Group",
+        "location": "Houston, TX 77077\u00a0(West Oaks area)",
+        "salary": "N/A",
+        "job_type": "N/A",
+        "schedule": "N/A"
+    },
+    {
+        "title": "Senior Data Scientist",
+        "company": "Mercuria Energy America LLC",
+        "location": "Houston, TX 77046",
+        "salary": "N/A",
+        "job_type": "N/A",
+        "schedule": "N/A"
+    },
+    {
+        "title": "Reporter \u2013 LNG Markets",
+        "company": "Argus Media",
+        "location": "Houston, TX 77019",
+        "salary": "N/A",
+        "job_type": "N/A",
+        "schedule": "N/A"
+    },
+    {
+        "title": "Mobile Health Portfolio Manager",
+        "company": "Harris County",
+        "location": "Houston, TX 77002\u00a0(Downtown area)",
+        "salary": "N/A",
+        "job_type": "Monday to Friday +2",
+        "schedule": "N/A"
+    },
+    {
+        "title": "Director Data Science - Core AI",
+        "company": "Publicis Sapient",
+        "location": "Houston, TX 77002\u00a0(Downtown area)",
+        "salary": "$222,000 - $333,000 a year",
+        "job_type": "Full-time",
+        "schedule": "N/A"
+    },
+    {
+        "title": "Director, Workforce Analytics",
+        "company": "Memorial Hermann Health System",
+        "location": "Houston, TX 77024",
+        "salary": "N/A",
+        "job_type": "N/A",
+        "schedule": "N/A"
+    },
+    {
+        "title": "Digital Engineering Rotational Aspire",
+        "company": "American Bureau of Shipping (ABS)",
+        "location": "Houston, TX 77056",
+        "salary": "N/A",
+        "job_type": "N/A",
+        "schedule": "N/A"
+    },
+    {
+        "title": "PHARMACY SOLUTIONS DATA MANAGER",
+        "company": "Trilogy Medwaste",
+        "location": "Houston, TX 77024",
+        "salary": "$123,000 - $125,000 a year",
+        "job_type": "Full-time",
+        "schedule": "N/A"
+    },
+    {
+        "title": "Supply Chain Data Scientist",
+        "company": "Huntsman",
+        "location": "Houston, TX",
+        "salary": "N/A",
+        "job_type": "N/A",
+        "schedule": "N/A"
+    },
+    {
+        "title": "Principal Data Scientist",
+        "company": "Aspen Technology",
+        "location": "Houston, TX",
+        "salary": "N/A",
+        "job_type": "N/A",
+        "schedule": "N/A"
+    },
+    {
+        "title": "Cloud (Azure) Data & Analytics Architect",
+        "company": "Smartbridge",
+        "location": "Houston, TX 77042",
+        "salary": "$125,000 - $180,000 a year",
+        "job_type": "Full-time",
+        "schedule": "N/A"
+    },
+    {
+        "title": "Principal Data Scientist",
+        "company": "Aspen Technology",
+        "location": "Houston, TX",
+        "salary": "N/A",
+        "job_type": "N/A",
+        "schedule": "N/A"
+    },
+    {
+        "title": "Cloud (Azure) Data & Analytics Architect",
+        "company": "Smartbridge",
+        "location": "Houston, TX 77042",
+        "salary": "$125,000 - $180,000 a year",
+        "job_type": "Full-time",
+        "schedule": "N/A"
+    },
+    {
+        "title": "Data & Analytics Lead Engineer - Data Engineering",
+        "company": "Crowe LLP",
+        "location": "Houston, TX 77046\u00a0(Greenway - Upper Kirby area)",
+        "salary": "$104,471 - $208,282 a year",
+        "job_type": "Full-time",
+        "schedule": "N/A"
+    },
+    {
+        "title": "Senior Data Engineer & GIS Specialist",
+        "company": "Encino Energy LLC",
+        "location": "Hybrid work in Houston, TX 77057",
+        "salary": "N/A",
+        "job_type": "N/A",
+        "schedule": "N/A"
+    },
+    {
+        "title": "Staff Data Engineer",
+        "company": "Fluence Energy",
+        "location": "Houston, TX",
+        "salary": "N/A",
+        "job_type": "N/A",
+        "schedule": "N/A"
+    },
+    {
+        "title": "Advisor IT Systems",
+        "company": "Occidental Petroleum Corporation",
+        "location": "Houston, TX",
+        "salary": "N/A",
+        "job_type": "N/A",
+        "schedule": "N/A"
+    },
+    {
+        "title": "Product Manager, Analytics Strategy and Product Owner",
+        "company": "Sysco Payroll, Division of Sysco Resources...",
+        "location": "Houston, TX 77077",
+        "salary": "N/A",
+        "job_type": "N/A",
+        "schedule": "N/A"
+    },
+    {
+        "title": "Director, Workforce Analytics",
+        "company": "Memorial Hermann Health System",
+        "location": "Houston, TX 77024",
+        "salary": "N/A",
+        "job_type": "N/A",
+        "schedule": "N/A"
+    },
+    {
+        "title": "Senior Data Scientist",
+        "company": "Patterson-UTI",
+        "location": "Houston, TX 77064",
+        "salary": "N/A",
+        "job_type": "N/A",
+        "schedule": "N/A"
+    },
+    {
+        "title": "NASA Mission Control AI Software Engineer and Data Scientist",
+        "company": "CACI",
+        "location": "Houston, TX 77058",
+        "salary": "N/A",
+        "job_type": "N/A",
+        "schedule": "N/A"
+    },
+    {
+        "title": "Senior Business Intelligence Lead",
+        "company": "ClearpointCo.",
+        "location": "Houston, TX",
+        "salary": "N/A",
+        "job_type": "N/A",
+        "schedule": "N/A"
+    },
+    {
+        "title": "Financial Analyst \u2013 Revenue Cycle (RCM)",
+        "company": "ACH EMPLOYMENT SERVICES LLC",
+        "location": "Hybrid work in Houston, TX 77027",
+        "salary": "$90,000 - $110,000 a year",
+        "job_type": "Full-time",
         "schedule": "Monday to Friday +2"
     },
     {
-        "title": "Social Media Content Creator (Remote)",
-        "company": "RA & Associates",
-        "location": "Remote in California",
-        "salary": "$20 - $30 an hour",
-        "job_type": "Part-time +1",
-        "schedule": "20 hours per week"
-    },
-    {
-        "title": "Marketing Localization Producer",
-        "company": "Apple",
-        "location": "Culver City, CA",
-        "salary": "$107,100 - $222,800 a year",
-        "job_type": "Full-time",
-        "schedule": "N/A"
-    },
-    {
-        "title": "Hospice Marketing Specialist",
-        "company": "Perennial Hospice Inc.",
-        "location": "Los Angeles, CA",
-        "salary": "$68,000 - $112,000 a year",
-        "job_type": "Full-time",
-        "schedule": "Monday to Friday"
-    },
-    {
-        "title": "Part-Time Social Media and Digital Marketing Coordinator",
-        "company": "Tectonic Coffee Company",
-        "location": "Hybrid work in West Hollywood, CA 90046",
-        "salary": "$25.00 - $31.25 an hour",
-        "job_type": "Part-time",
-        "schedule": "8 hours per week"
-    },
-    {
-        "title": "Help Wanted! Full Time and Part Time Positions Available!",
-        "company": "Royalty Model Agency",
-        "location": "Los Angeles, CA",
+        "title": "Sr. FP&A Analyst",
+        "company": "Enchanted Rock Management LLC",
+        "location": "Hybrid work in Houston, TX 77002",
         "salary": "N/A",
         "job_type": "N/A",
         "schedule": "N/A"
     },
     {
-        "title": "Associate Marketing Manager- Energy Brand Experiencer",
-        "company": "PepsiCo",
-        "location": "Remote in Los Angeles, CA 90045",
-        "salary": "$85,200 - $142,650 a year",
-        "job_type": "N/A",
-        "schedule": "N/A"
-    },
-    {
-        "title": "Executive Assistant, Marketing",
-        "company": "Encino Terrace Senior Living",
-        "location": "Encino, CA 91436",
-        "salary": "$60,000 - $80,000 a year",
-        "job_type": "Full-time",
-        "schedule": "8 hour shift"
-    },
-    {
-        "title": "Marketing Assistant",
-        "company": "HED",
-        "location": "Los Angeles, CA 90071",
-        "salary": "$50,000 - $90,000 a year",
-        "job_type": "N/A",
-        "schedule": "N/A"
-    },
-    {
-        "title": "Sales Professional",
-        "company": "New York Life Insurance Company",
-        "location": "Los Angeles, CA",
-        "salary": "$110,000 - $116,000 a year",
-        "job_type": "Full-time",
-        "schedule": "Monday to Friday"
-    },
-    {
-        "title": "Seasonal Player Social & Influencer Marketing Coordinator",
-        "company": "The National Football League",
-        "location": "Inglewood, CA",
+        "title": "Gen AI Specialist",
+        "company": "CEDENT",
+        "location": "Houston, TX",
         "salary": "N/A",
         "job_type": "N/A",
         "schedule": "N/A"
     },
     {
-        "title": "Associate Marketing Director",
-        "company": "Confidential",
-        "location": "Los Angeles, CA",
-        "salary": "$90,000 - $115,000 a year",
-        "job_type": "Full-time",
-        "schedule": "N/A"
-    },
-    {
-        "title": "Digital Marketing & Social Media Specialist",
-        "company": "Dr U Hair and Skin Clinic",
-        "location": "Manhattan Beach, CA 90266",
-        "salary": "$22 - $28 an hour",
-        "job_type": "Full-time +1",
-        "schedule": "8 hour shift"
-    },
-    {
-        "title": "Assistant Manager, Product Marketing - Smashbox",
-        "company": "The Est\u00e9e Lauder Companies",
-        "location": "Culver City, CA",
+        "title": "Cyber Security Analyst (Houston - Onsite)",
+        "company": "Tiger Analytics",
+        "location": "Houston, TX",
         "salary": "N/A",
         "job_type": "N/A",
-        "schedule": "N/A"
-    },
-    {
-        "title": "Associate Manager, Web Marketing - Hulu",
-        "company": "Disney",
-        "location": "Santa Monica, CA\u00a0(Downtown/Third Street Promenade area)",
-        "salary": "N/A",
-        "job_type": "N/A",
-        "schedule": "N/A"
-    },
-    {
-        "title": "Visual Marketing Designer",
-        "company": "Capital Group Companies",
-        "location": "Los Angeles, CA",
-        "salary": "N/A",
-        "job_type": "N/A",
-        "schedule": "N/A"
-    },
-    {
-        "title": "Director, Strategic Marketing",
-        "company": "UCLA Health",
-        "location": "Los Angeles, CA 90095",
-        "salary": "N/A",
-        "job_type": "N/A",
-        "schedule": "N/A"
-    },
-    {
-        "title": "Regional Account Executive (Outside Sales)",
-        "company": "ClassicPlan Premium Finance, Inc.",
-        "location": "Los Angeles, CA",
-        "salary": "$70,000 - $130,000 a year",
-        "job_type": "Full-time",
-        "schedule": "Monday to Friday"
-    },
-    {
-        "title": "Associate Manager, Web Marketing - Hulu",
-        "company": "Disney Entertainment Television",
-        "location": "Santa Monica, CA",
-        "salary": "$102,000 - $136,700 a year",
-        "job_type": "N/A",
-        "schedule": "N/A"
-    },
-    {
-        "title": "Content Creator and Social Media Manager",
-        "company": "LOVOO GmbH",
-        "location": "Remote in Los Angeles, CA",
-        "salary": "N/A",
-        "job_type": "N/A",
-        "schedule": "N/A"
-    },
-    {
-        "title": "Influencer Marketing Manager - Amazon",
-        "company": "JustFab",
-        "location": "Hybrid work in El Segundo, CA",
-        "salary": "$75,000 - $90,000 a year",
-        "job_type": "Full-time",
-        "schedule": "N/A"
-    },
-    {
-        "title": "Influencer Marketing Manager",
-        "company": "Henkel",
-        "location": "Culver City, CA 90230",
-        "salary": "N/A",
-        "job_type": "N/A",
-        "schedule": "N/A"
-    },
-    {
-        "title": "Receptionist/Marketing Assistant",
-        "company": "PureSkin +Scalp Therapy Studio",
-        "location": "Playa Vista, CA 90094",
-        "salary": "$25 - $33 an hour",
-        "job_type": "Contract",
-        "schedule": "4 hours per week"
-    },
-    {
-        "title": "Director, Product Marketing - Smashbox",
-        "company": "The Est\u00e9e Lauder Companies",
-        "location": "Culver City, CA",
-        "salary": "N/A",
-        "job_type": "N/A",
-        "schedule": "N/A"
-    },
-    {
-        "title": "URGENT HIRING! Community Engagement Liaison",
-        "company": "Wound360",
-        "location": "Los Angeles, CA",
-        "salary": "$50,000 a month",
-        "job_type": "Full-time",
-        "schedule": "Monday to Friday +1"
-    },
-    {
-        "title": "[KOTRA] Busan Trade Office LA - Marketing Consultant",
-        "company": "KOTRA Los Angeles",
-        "location": "Los Angeles, CA 90010\u00a0(Hancock Park area)",
-        "salary": "$44,000 - $48,000 a year",
-        "job_type": "Full-time",
-        "schedule": "N/A"
-    },
-    {
-        "title": "Marketing Communications Specialist",
-        "company": "Porsche Motorsport North America",
-        "location": "Los Angeles, CA",
-        "salary": "N/A",
-        "job_type": "N/A",
-        "schedule": "N/A"
-    },
-    {
-        "title": "Media Planner (Hulu)",
-        "company": "Disney Entertainment Television",
-        "location": "Santa Monica, CA",
-        "salary": "$63,400 - $85,000 a year",
-        "job_type": "Full-time",
-        "schedule": "N/A"
-    },
-    {
-        "title": "Executive Director, Social Marketing - TV",
-        "company": "Sony Pictures Entertainment, Inc.",
-        "location": "Culver City, CA",
-        "salary": "N/A",
-        "job_type": "N/A",
-        "schedule": "N/A"
-    },
-    {
-        "title": "VP, Marketing & Design",
-        "company": "The Honest Company",
-        "location": "Los Angeles, CA 90010",
-        "salary": "N/A",
-        "job_type": "N/A",
-        "schedule": "N/A"
-    },
-    {
-        "title": "Senior Brand Marketing Manager - Medical Aesthetics",
-        "company": "Alchemy43",
-        "location": "Hybrid work in West Hollywood, CA 90069",
-        "salary": "$100,000 - $120,000 a year",
-        "job_type": "Full-time",
-        "schedule": "N/A"
-    },
-    {
-        "title": "Marketing Manager / Strategic Marketing",
-        "company": "Children's Hospital Los Angeles",
-        "location": "Remote in Glendale, CA",
-        "salary": "N/A",
-        "job_type": "N/A",
-        "schedule": "N/A"
-    },
-    {
-        "title": "Marketing Manager - Conrad Los Angeles",
-        "company": "Hilton",
-        "location": "Los Angeles, CA 90012\u00a0(Downtown area)",
-        "salary": "$67,000 - $68,000 a year",
-        "job_type": "Full-time",
-        "schedule": "N/A"
-    },
-    {
-        "title": "VP of Marketing",
-        "company": "Workwell Technologies",
-        "location": "Remote in California",
-        "salary": "From $145,000 a year",
-        "job_type": "Full-time",
-        "schedule": "Monday to Friday +1"
-    },
-    {
-        "title": "Assistant Athletic Director, Football Communications",
-        "company": "UCLA",
-        "location": "Hybrid work in Los Angeles, CA 90024",
-        "salary": "$92,600 - $202,200 a year",
-        "job_type": "Full-time",
-        "schedule": "Weekends as needed +3"
-    },
-    {
-        "title": "Coordinator, Synergy (Disney Entertainment Television)",
-        "company": "Disney",
-        "location": "Burbank, CA",
-        "salary": "N/A",
-        "job_type": "N/A",
-        "schedule": "N/A"
-    },
-    {
-        "title": "Growth Marketing Operations Specialist, Apple Services",
-        "company": "Apple",
-        "location": "Culver City, CA",
-        "salary": "$133,800 - $222,800 a year",
-        "job_type": "Full-time",
-        "schedule": "N/A"
-    },
-    {
-        "title": "Digital Engagement Strategist",
-        "company": "UCLA",
-        "location": "Hybrid work in Los Angeles, CA 90024",
-        "salary": "$76,200 - $158,800 a year",
-        "job_type": "Full-time",
-        "schedule": "Weekends as needed +1"
-    },
-    {
-        "title": "Film & TV Coordinator",
-        "company": "Luminate",
-        "location": "Hybrid work in Los Angeles, CA",
-        "salary": "$25 an hour",
-        "job_type": "Full-time",
-        "schedule": "N/A"
-    },
-    {
-        "title": "Variety: Marketing Associate, Talent & Audience Development",
-        "company": "Penske Media Corp.",
-        "location": "Los Angeles, CA 90025\u00a0(Westwood area)",
-        "salary": "$66,750 a year",
-        "job_type": "N/A",
-        "schedule": "N/A"
-    },
-    {
-        "title": "Marketing and Admissions Coordinator - Teen Treatment Centers",
-        "company": "Key Healthcare",
-        "location": "Los Angeles, CA 90025",
-        "salary": "From $70,000 a year",
-        "job_type": "Full-time",
         "schedule": "N/A"
     }
 ]
