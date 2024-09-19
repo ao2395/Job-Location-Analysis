@@ -1,362 +1,242 @@
 [
     {
-        "title": "Director of Pricing",
-        "company": "GENPRO INC",
-        "location": "Rutherford, NJ",
-        "salary": "N/A",
-        "job_type": "N/A",
-        "schedule": "N/A"
-    },
-    {
-        "title": "Medical Economics Consultant",
-        "company": "Horizon Blue Cross Blue Shield of New Jersey",
-        "location": "Newark, NJ 07105\u00a0(Ironbound area)",
-        "salary": "$94,900 - $129,570 a year",
-        "job_type": "Full-time",
-        "schedule": "N/A"
-    },
-    {
-        "title": "Adjunct Opportunities - Social Sciences",
-        "company": "BERGEN COMM COLLEGE",
-        "location": "Paramus, NJ 07652",
-        "salary": "N/A",
-        "job_type": "N/A",
-        "schedule": "N/A"
-    },
-    {
-        "title": "Utility Pricing Analyst",
-        "company": "Stefanini, Inc",
-        "location": "Newark, NJ 07102",
-        "salary": "$40.00 - $45.50 an hour",
-        "job_type": "Contract",
-        "schedule": "N/A"
-    },
-    {
-        "title": "Pricing Analyst",
-        "company": "COSCO Container Lines Americas, Inc.",
-        "location": "Secaucus, NJ",
-        "salary": "N/A",
-        "job_type": "N/A",
-        "schedule": "N/A"
-    },
-    {
-        "title": "Supply Chain Data Analyst",
-        "company": "BTI Solutions",
-        "location": "Ridgefield Park, NJ",
-        "salary": "N/A",
-        "job_type": "N/A",
-        "schedule": "N/A"
-    },
-    {
-        "title": "Logistics Pricing Analyst",
-        "company": "NATIONAL RETAIL TRANSPORTATION",
-        "location": "Lyndhurst, NJ 07071",
-        "salary": "N/A",
-        "job_type": "N/A",
-        "schedule": "N/A"
-    },
-    {
-        "title": "Corporate Development Financial Analyst",
-        "company": "Teva Pharmaceuticals",
-        "location": "Parsippany-Troy Hills, NJ 07054",
-        "salary": "N/A",
-        "job_type": "N/A",
-        "schedule": "N/A"
-    },
-    {
-        "title": "3PL Pricing Analyst",
-        "company": "COSCO Container Lines Americas, Inc.",
-        "location": "Secaucus, NJ 07094",
-        "salary": "N/A",
+        "title": "Product Marketing Manager",
+        "company": "Rich Products Corporation",
+        "location": "Buffalo, NY 14213",
+        "salary": "$104,557.12 - $156,835.69 a year",
         "job_type": "Monday to Friday",
         "schedule": "N/A"
     },
     {
-        "title": "Sourcing & Purchasing Associate",
-        "company": "Global Chemicals Corporation",
-        "location": "Piscataway, NJ 08854",
-        "salary": "$18 - $25 an hour",
+        "title": "Product Marketing Specialist \u2013 Clinical North America",
+        "company": "Ivoclar",
+        "location": "Hybrid work in Amherst, NY 14228",
+        "salary": "$55,000 - $65,000 a year",
+        "job_type": "Full-time",
+        "schedule": "N/A"
+    },
+    {
+        "title": "Packaging Engineer",
+        "company": "The Mentholatum Company",
+        "location": "Orchard Park, NY 14127",
+        "salary": "From $68,000 a year",
+        "job_type": "Full-time",
+        "schedule": "Monday to Friday +2"
+    },
+    {
+        "title": "Digital Content Associate",
+        "company": "Executive Chamber of New York State",
+        "location": "Buffalo, NY 14203\u00a0(Central Business District area)",
+        "salary": "N/A",
+        "job_type": "N/A",
+        "schedule": "N/A"
+    },
+    {
+        "title": "Creative Content Coordinator, Intercollegiate Athletics",
+        "company": "University at Buffalo",
+        "location": "Buffalo, NY 14260",
+        "salary": "$49,261 a year",
+        "job_type": "Full-time",
+        "schedule": "Weekends as needed +1"
+    },
+    {
+        "title": "Marketing Manager",
+        "company": "Rosina Food Products",
+        "location": "Buffalo, NY 14227",
+        "salary": "$66,705 - $103,395 a year",
         "job_type": "Full-time",
         "schedule": "Monday to Friday +1"
     },
     {
-        "title": "Accounts Receivable Associate",
-        "company": "Legrand North America",
-        "location": "Somerset, NJ 08873",
+        "title": "Associate Director of Marketing",
+        "company": "University at Buffalo",
+        "location": "Buffalo, NY 14260",
         "salary": "N/A",
         "job_type": "N/A",
         "schedule": "N/A"
     },
     {
-        "title": "Compliance Surveillance Sr. Analyst \u2013 NAM Market Surveillance",
-        "company": "Citi",
-        "location": "Jersey City, NJ 07310\u00a0(The Waterfront area)",
-        "salary": "$109,120 - $163,680 a year",
+        "title": "Product Marketing Manager",
+        "company": "Stark Tech",
+        "location": "Buffalo, NY 14221",
+        "salary": "$84,988 - $113,317 a year",
         "job_type": "Full-time",
         "schedule": "N/A"
     },
     {
-        "title": "Business Planning and Pricing Principal, Google Cloud",
-        "company": "Google",
-        "location": "New York, NY\u00a0(Chelsea area)",
+        "title": "Marketing Coordinator",
+        "company": "NOCO Energy Corp",
+        "location": "Tonawanda, NY 14150",
         "salary": "N/A",
         "job_type": "N/A",
         "schedule": "N/A"
     },
     {
-        "title": "Center of Excellence, Director",
-        "company": "BEHAVIORALLY INC",
-        "location": "Teaneck, NJ 07666",
+        "title": "Marketing Manager",
+        "company": "Rosina Food Products Inc",
+        "location": "Cheektowaga, NY 14227",
         "salary": "N/A",
         "job_type": "N/A",
         "schedule": "N/A"
     },
     {
-        "title": "Financial Analyst - Regulated Water Modeling",
-        "company": "Veolia",
-        "location": "Paramus, NJ 07652",
-        "salary": "N/A",
-        "job_type": "N/A",
-        "schedule": "N/A"
-    },
-    {
-        "title": "OCR: Associate - Consulting",
-        "company": "GEP",
-        "location": "Clark, NJ 07066",
-        "salary": "N/A",
-        "job_type": "N/A",
-        "schedule": "N/A"
-    },
-    {
-        "title": "Financial Analyst",
-        "company": "Ashley Stewart",
-        "location": "Secaucus, NJ 07094",
-        "salary": "N/A",
-        "job_type": "N/A",
-        "schedule": "N/A"
-    },
-    {
-        "title": "Tender and Pricing Analyst",
-        "company": "Yusen Logistics",
-        "location": "Secaucus, NJ 07094",
-        "salary": "N/A",
-        "job_type": "N/A",
-        "schedule": "N/A"
-    },
-    {
-        "title": "Portfolio Analyst",
-        "company": "Lord Abbett.com",
-        "location": "Jersey City, NJ 07302\u00a0(The Waterfront area)",
-        "salary": "$130,000 - $150,000 a year",
-        "job_type": "N/A",
-        "schedule": "N/A"
-    },
-    {
-        "title": "Senior Auditor",
-        "company": "JPMorganChase",
-        "location": "Jersey City, NJ 07310\u00a0(The Waterfront area)",
-        "salary": "$128,000 - $145,000 a year",
-        "job_type": "Full-time",
-        "schedule": "N/A"
-    },
-    {
-        "title": "Pricing Analyst",
-        "company": "Menasha Corporation & Companies",
-        "location": "Edison, NJ",
-        "salary": "N/A",
-        "job_type": "N/A",
-        "schedule": "N/A"
-    },
-    {
-        "title": "Market Risk Business Analyst",
-        "company": "Barclays",
-        "location": "Remote in Whippany, NJ 07981",
-        "salary": "N/A",
-        "job_type": "N/A",
-        "schedule": "N/A"
-    },
-    {
-        "title": "Energy Efficiency Senior Financial Analyst",
-        "company": "The CARIAN Group",
-        "location": "Newark, NJ",
-        "salary": "N/A",
-        "job_type": "N/A",
-        "schedule": "N/A"
-    },
-    {
-        "title": "Adjunct Faculty - Economics, Finance and Global Business",
-        "company": "William Paterson University",
-        "location": "Wayne, NJ 07470",
-        "salary": "N/A",
-        "job_type": "N/A",
-        "schedule": "N/A"
-    },
-    {
-        "title": "Associate Director, Market Research-USA",
-        "company": "KMK Consulting, Inc.",
-        "location": "Morristown, NJ",
-        "salary": "N/A",
-        "job_type": "N/A",
-        "schedule": "N/A"
-    },
-    {
-        "title": "Financial Analyst Senior",
-        "company": "South Jersey Industries",
-        "location": "Union, NJ",
-        "salary": "$81,750 - $130,800 a year",
-        "job_type": "Full-time",
-        "schedule": "N/A"
-    },
-    {
-        "title": "Pricing and Bid Coordinator",
-        "company": "Imperial Dade",
-        "location": "Jersey City, NJ 07306\u00a0(Hackensack Riverfront area)",
-        "salary": "$50,000 - $60,000 a year",
+        "title": "Marketing Technical Writer",
+        "company": "Thermo Fisher Scientific",
+        "location": "Grand Island, NY 14072",
+        "salary": "$83,300 - $110,000 a year",
         "job_type": "Full-time",
         "schedule": "Monday to Friday"
     },
     {
-        "title": "Lead Energy Market Analyst",
-        "company": "Honeywell",
-        "location": "Morris Plains, NJ 07950",
+        "title": "Marketing Specialist",
+        "company": "William S. Hein & Co., Inc.",
+        "location": "Getzville, NY 14068",
+        "salary": "$55,000 - $68,000 a year",
+        "job_type": "Full-time",
+        "schedule": "Monday to Friday"
+    },
+    {
+        "title": "Customer & Marketing Insights Analyst",
+        "company": "Rosina Food Products Inc",
+        "location": "Cheektowaga, NY 14227",
         "salary": "N/A",
         "job_type": "N/A",
         "schedule": "N/A"
     },
     {
-        "title": "Associate Manager, Strategic Evidence (Remote)",
-        "company": "Stryker",
-        "location": "Remote in Mahwah, NJ 07430",
-        "salary": "$98,000 - $210,100 a year",
+        "title": "Assistant Director of Enrollment Marketing and Communications",
+        "company": "University at Buffalo",
+        "location": "Buffalo, NY 14260",
+        "salary": "N/A",
+        "job_type": "N/A",
+        "schedule": "N/A"
+    },
+    {
+        "title": "Customer and Marketing Insights Analyst",
+        "company": "Rosina Food Products",
+        "location": "Buffalo, NY 14227",
+        "salary": "N/A",
+        "job_type": "N/A",
+        "schedule": "N/A"
+    },
+    {
+        "title": "Campaign Manager",
+        "company": "PUSH Buffalo",
+        "location": "Buffalo, NY 14213\u00a0(Front Park area)",
+        "salary": "$57,500 - $65,000 a year",
+        "job_type": "Full-time",
+        "schedule": "Monday to Friday +3"
+    },
+    {
+        "title": "Assistant Director of Communications and Stewardship Operations",
+        "company": "University at Buffalo",
+        "location": "Buffalo, NY 14260",
+        "salary": "N/A",
+        "job_type": "N/A",
+        "schedule": "N/A"
+    },
+    {
+        "title": "Community Outreach & Engagement - Must Reside in Erie County NY",
+        "company": "Molina Healthcare",
+        "location": "Buffalo, NY",
+        "salary": "$16.23 - $35.17 an hour",
         "job_type": "Full-time",
         "schedule": "N/A"
     },
     {
-        "title": "Buyer, Assistant",
-        "company": "The Vitamin Shoppe",
-        "location": "Secaucus, NJ 07094",
-        "salary": "N/A",
-        "job_type": "N/A",
-        "schedule": "N/A"
-    },
-    {
-        "title": "Strategy Transformation Control Manager - Vice President",
-        "company": "JPMorganChase",
-        "location": "Jersey City, NJ 07310",
-        "salary": "N/A",
-        "job_type": "N/A",
-        "schedule": "N/A"
-    },
-    {
-        "title": "LCL Pricing Coordinator",
-        "company": "Shipco Transport Inc",
-        "location": "Hybrid work in Hoboken, NJ 07030",
-        "salary": "N/A",
-        "job_type": "N/A",
-        "schedule": "N/A"
-    },
-    {
-        "title": "Senior Actuarial Analyst",
-        "company": "Extreme Event Solutions",
-        "location": "Jersey City, NJ",
-        "salary": "N/A",
-        "job_type": "N/A",
-        "schedule": "N/A"
-    },
-    {
-        "title": "FP&A Analyst",
-        "company": "GAF Materials Corporation",
-        "location": "Parsippany-Troy Hills, NJ",
-        "salary": "N/A",
-        "job_type": "N/A",
-        "schedule": "N/A"
-    },
-    {
-        "title": "Part-Time Instructor, Economics, Fall 2024",
-        "company": "Rutgers University",
-        "location": "Newark, NJ 07102\u00a0(University Heights area)",
-        "salary": "N/A",
-        "job_type": "N/A",
-        "schedule": "N/A"
-    },
-    {
-        "title": "PGIM Portfolio Advisory - Risk Analyst, Asset Allocation and Hedging Risk Management",
-        "company": "Prudential",
-        "location": "Hybrid work in Newark, NJ 07102",
-        "salary": "$160,000 - $180,000 a year",
+        "title": "Associate Director of Alumni Engagement",
+        "company": "University at Buffalo",
+        "location": "Buffalo, NY 14260",
+        "salary": "$70,000 - $90,000 a year",
         "job_type": "Full-time",
         "schedule": "N/A"
     },
     {
-        "title": "FICM Finance Trader",
-        "company": "Stifel, Nicolaus & Co., Inc.",
-        "location": "Morristown, NJ 07960",
+        "title": "Communications Coordinator",
+        "company": "Buffalo Niagara Heritage Village",
+        "location": "Amherst, NY 14228",
+        "salary": "$43,000 - $45,000 a year",
+        "job_type": "Full-time",
+        "schedule": "Monday to Friday +2"
+    },
+    {
+        "title": "Social Media Specialist",
+        "company": "Buffalo General Dentistry",
+        "location": "Buffalo, NY 14226",
         "salary": "N/A",
         "job_type": "N/A",
         "schedule": "N/A"
     },
     {
-        "title": "Chief Economist / Assistant or Associate Professor of Public Policy",
-        "company": "Rutgers University",
-        "location": "New Brunswick, NJ 08901",
-        "salary": "N/A",
-        "job_type": "N/A",
-        "schedule": "N/A"
+        "title": "Marketing Coordinator",
+        "company": "Red Oak Group, LLC.",
+        "location": "Irving, NY 14081",
+        "salary": "$54,000 - $65,000 a year",
+        "job_type": "Full-time",
+        "schedule": "Monday to Friday +1"
     },
     {
-        "title": "Pricing Analyst",
-        "company": "Persistent Systems",
-        "location": "New York, NY 10001\u00a0(Chelsea area)",
-        "salary": "$75,000 - $85,000 a year",
+        "title": "Vice President of Development",
+        "company": "VIA VISUALLY IMPAIRED ADVANCEMENT",
+        "location": "Buffalo, NY 14209",
+        "salary": "$95,000 - $112,000 a year",
         "job_type": "Full-time",
         "schedule": "N/A"
     },
     {
-        "title": "Senior, Data Scientist | Search Ranking Team",
-        "company": "Walmart",
-        "location": "Hybrid work in Hoboken, NJ 07030",
-        "salary": "$108,000 - $216,000 a year",
+        "title": "PPC Specialist",
+        "company": "Haley Marketing Group",
+        "location": "Remote in Williamsville, NY 14221",
+        "salary": "N/A",
         "job_type": "N/A",
         "schedule": "N/A"
     },
     {
-        "title": "Associate Director - Commercial (Market Research & Brand Strategy)",
-        "company": "Prescient Healthcare Group",
-        "location": "Jersey City, NJ 07302",
-        "salary": "$155,000 - $180,000 a year",
+        "title": "Digital Marketing Manager, Paid Social",
+        "company": "Delaware North",
+        "location": "Buffalo, NY 14202\u00a0(Central Business District area)",
+        "salary": "$66,500 - $89,900 a year",
+        "job_type": "Full-time",
+        "schedule": "Monday to Friday"
+    },
+    {
+        "title": "Technology Assessment Specialist",
+        "company": "University at Buffalo",
+        "location": "Buffalo, NY 14260",
+        "salary": "$65,000 - $85,000 a year",
+        "job_type": "N/A",
+        "schedule": "N/A"
+    },
+    {
+        "title": "Market Research Manager",
+        "company": "Curbell Medical Products, Inc.",
+        "location": "Orchard Park, NY 14127",
+        "salary": "$98,737.50 a year",
         "job_type": "Full-time",
         "schedule": "N/A"
     },
     {
-        "title": "Associate Director, US Generics Finance",
-        "company": "Teva Pharmaceuticals",
-        "location": "Hybrid work in Parsippany-Troy Hills, NJ 07054",
-        "salary": "N/A",
-        "job_type": "N/A",
-        "schedule": "N/A"
-    },
-    {
-        "title": "Director, Transfer Pricing",
-        "company": "Novartis",
-        "location": "East Hanover, NJ 07936",
-        "salary": "$174,400 - $261,600 a year",
+        "title": "Development Manager",
+        "company": "Jewish Family Services of Western New York",
+        "location": "Buffalo, NY 14209\u00a0(Bryant area)",
+        "salary": "$58,500 - $65,000 a year",
         "job_type": "Full-time",
         "schedule": "N/A"
     },
     {
-        "title": "Project Associate - Acquisition/Strategy",
-        "company": "Qcells",
-        "location": "Teaneck, NJ 07666",
-        "salary": "N/A",
-        "job_type": "N/A",
+        "title": "Franchise Operations Coach - Upstate NY",
+        "company": "The Wendy's Company",
+        "location": "Hybrid work in Buffalo, NY 14206",
+        "salary": "$100,000 - $150,000 a year",
+        "job_type": "Full-time",
         "schedule": "N/A"
     },
     {
-        "title": "Assistant or Associate Professor of Applied Artificial Intelligence",
-        "company": "Montclair State University",
-        "location": "Montclair, NJ 07043",
-        "salary": "N/A",
-        "job_type": "N/A",
-        "schedule": "N/A"
+        "title": "Teacher: High School Entrepreneurship",
+        "company": "Mount St. Mary Academy",
+        "location": "Buffalo, NY 14217",
+        "salary": "$30,000 - $60,000 a year",
+        "job_type": "Full-time",
+        "schedule": "Monday to Friday"
     }
 ]

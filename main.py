@@ -1,8 +1,8 @@
 import requests
 from bs4 import BeautifulSoup
 import time
-import re
 import json
+import re
 
 # mimic a real browser request
 headers = {
